@@ -4,5 +4,6 @@
 ___
 
 Completed baseline for Kaggle inclass competition (DLS) in `Simpson4_with_sub.ipynb`
-You can open `Simpson4_with_sub.ipynb` and another `.ipynb` in Colab. Data lives [here](https://www.kaggle.com/c/simpsons4/data).
+You can open it and another `.ipynb` in Colab. Data lives [here](https://www.kaggle.com/c/simpsons4/data).
+
 My [loser_kaggle_profile](https://www.kaggle.com/pashtetickus) - why not ha.
