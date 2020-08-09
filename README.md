@@ -1,6 +1,6 @@
 # solution_review_temp
 
-Небольшая часть домашки по курсу по нейронкам, где именно самому большую часть нужно писать (заготовки были, но их тусовать и менять нужно, чтобы работать начало).
+Часть домашки по курсу по нейронкам. Самое интересное в **semantic_segmentation**, **Simpson4_with_sub** и **neural_networks_pytorch**.
 ___
 
 Completed baseline for Kaggle inclass competition (DLS) in `Simpson4_with_sub.ipynb`
